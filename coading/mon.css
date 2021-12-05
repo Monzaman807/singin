@@ -1,0 +1,70 @@
+body {
+  background-color: lightblue;
+}
+
+form{
+	margin-top: 200px;
+}
+
+h1 {
+  color: white;
+  margin-left: 20px;
+  text-align: center;
+  background-color: black;
+  width:300px;
+  margin:auto;
+  margin-top: 30px;
+  border-radius: 5px;
+   border-color: red;
+}
+
+#maindiv
+{
+	margin-top: 50px;
+}
+
+.lfn
+{
+text-align:center;
+font-family: Arial Black;
+font-size: 15px;	
+}
+
+.ifn
+{
+	
+text-align:center;
+font-family: Arial Black;
+font-size: 10px;
+
+}
+
+.pas
+{
+text-align:center;
+margin-top: 10px;
+font-family: Arial Black;
+font-size: 15px;	
+}
+
+.passwod
+{
+ text-align:center;
+margin-top: 10px;
+}
+
+.btn {
+	text-align:center;
+	margin-top: 20px;
+	
+}
+
+.button {
+	background-color:black;
+color:white;
+ font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+   border-radius: 5px;
+   border-color: red;
+}
